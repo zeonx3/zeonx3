@@ -43,7 +43,7 @@ Actualmente, estoy profundizando en:
 ## 📫 Cómo contactarme
 
 - **Email**: antobio.c.aravena@gmail.com
-- **LinkedIn**: [Tu perfil de LinkedIn](https://www.linkedin.com/in/antonio-cortes-aravena-b2647b51/)
+- **LinkedIn**: [Antonio Cortes](https://www.linkedin.com/in/antonio-cortes-aravena-b2647b51/)
 
 ## 🎯 Objetivos personales
 
