@@ -5,13 +5,21 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la creaci�
 ## 🚀 Tecnologías y Herramientas
 
 - **Frontend**: JavaScript, TypeScript, React.js, Next.js,Bootstrap
-- **Backend**: Node.js, Express.js, Laravel, MySQL, Prisma
+- **Backend**: Node.js, Express.js, PHP, MySQL, Prisma, Java
 - **DevOps**: Docker, GitHub Actions, CI/CD, AWS
 - **Otros**: Git, REST APIs, GraphQL
 
 ## 💼 Experiencia Profesional
 
 ### [Desarrollador Web]
+
+**[Appnet Ltda]** - *[Junio - 2024] - [Actualidad]*
+
+- Desarrollo interfaces de usuario utilizando **CI3 y Laravel 13**, con un enfoque en la experiencia del usuario.
+- Desarrollo de microservicios en **JAVA**
+- Automatización de procesos de despliegue continuo utilizando **GitHub Actions** y **Docker**.
+- Trabajo en proyetos ágiles para la entrega de soluciones de software en ciclos de desarrollo cortos.
+- 
 **[Appnet Ltda]** - *[Junio - 2022] - [Junio - 2023]*
 
 - Desarrollé interfaces de usuario utilizando **Blade** y **React**, con un enfoque en la experiencia del usuario.
@@ -52,6 +60,9 @@ Actualmente, estoy profundizando en:
 - Continuar desarrollando aplicaciones que impacten positivamente en la vida de las personas.
 
 ## 💻 Proyectos Destacados
+
+### [Tricot CL]
+Participación en proyectos de e-commerce enfocados en integraciones con **Salesforces** este para poder llevar el correcto funcionamiento en el flujo de las ordenes y trackings. 
 
 ### [Appnet store]
 Software ERP enfocado en el area de finanzas de los clientes, en este proyecto utilice laravel, mysql, react, react-native,json, etc.
