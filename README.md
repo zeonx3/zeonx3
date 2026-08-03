@@ -13,7 +13,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la creaci√
 
 ### [Desarrollador Web]
 
-**[Appnet Ltda]** - *[Junio - 2024] - [Actualidad]*
+**[Tricot CL]** - *[Junio - 2024] - [Actualidad]*
 
 - Desarrollo interfaces de usuario utilizando **CI3 y Laravel 13**, con un enfoque en la experiencia del usuario.
 - Desarrollo de microservicios en **JAVA**
